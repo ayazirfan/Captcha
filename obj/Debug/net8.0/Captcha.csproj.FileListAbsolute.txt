@@ -1,0 +1,14 @@
+c:\Users\HP\Desktop\Turkcell\Captcha\bin\Debug\net8.0\Captcha.exe
+c:\Users\HP\Desktop\Turkcell\Captcha\bin\Debug\net8.0\Captcha.deps.json
+c:\Users\HP\Desktop\Turkcell\Captcha\bin\Debug\net8.0\Captcha.runtimeconfig.json
+c:\Users\HP\Desktop\Turkcell\Captcha\bin\Debug\net8.0\Captcha.dll
+c:\Users\HP\Desktop\Turkcell\Captcha\bin\Debug\net8.0\Captcha.pdb
+c:\Users\HP\Desktop\Turkcell\Captcha\obj\Debug\net8.0\Captcha.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\HP\Desktop\Turkcell\Captcha\obj\Debug\net8.0\Captcha.AssemblyInfoInputs.cache
+c:\Users\HP\Desktop\Turkcell\Captcha\obj\Debug\net8.0\Captcha.AssemblyInfo.cs
+c:\Users\HP\Desktop\Turkcell\Captcha\obj\Debug\net8.0\Captcha.csproj.CoreCompileInputs.cache
+c:\Users\HP\Desktop\Turkcell\Captcha\obj\Debug\net8.0\Captcha.dll
+c:\Users\HP\Desktop\Turkcell\Captcha\obj\Debug\net8.0\refint\Captcha.dll
+c:\Users\HP\Desktop\Turkcell\Captcha\obj\Debug\net8.0\Captcha.pdb
+c:\Users\HP\Desktop\Turkcell\Captcha\obj\Debug\net8.0\Captcha.genruntimeconfig.cache
+c:\Users\HP\Desktop\Turkcell\Captcha\obj\Debug\net8.0\ref\Captcha.dll
