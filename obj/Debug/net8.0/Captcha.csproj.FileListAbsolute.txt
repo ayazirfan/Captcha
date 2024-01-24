@@ -12,3 +12,4 @@ c:\Users\HP\Desktop\Turkcell\Captcha\obj\Debug\net8.0\refint\Captcha.dll
 c:\Users\HP\Desktop\Turkcell\Captcha\obj\Debug\net8.0\Captcha.pdb
 c:\Users\HP\Desktop\Turkcell\Captcha\obj\Debug\net8.0\Captcha.genruntimeconfig.cache
 c:\Users\HP\Desktop\Turkcell\Captcha\obj\Debug\net8.0\ref\Captcha.dll
+c:\Users\HP\Desktop\Turkcell\Captcha\obj\Debug\net8.0\Captcha.sourcelink.json
